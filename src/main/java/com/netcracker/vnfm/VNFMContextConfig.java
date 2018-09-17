@@ -1,4 +1,4 @@
-package com.netcracker.ctx2;
+package com.netcracker.vnfm;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
@@ -6,9 +6,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 @Configuration
-@ComponentScan("com.netcracker.ctx2")
+@ComponentScan("com.netcracker.vnfm")
 @EnableAutoConfiguration
-@PropertySource("classpath:openStackKeyPairsContext.properties")
-public class OpenStackKeyPairsContextConfig {
-
+@PropertySource("classpath:vnfmContext.properties")
+public class VNFMContextConfig {
 }

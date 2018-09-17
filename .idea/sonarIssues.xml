@@ -73,7 +73,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/images/OpenStackImagesContextConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/images/OpenStackImagesController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/keypairs/OpenStackKeyPairsContextConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/keypairs/OpenStackKeyPairsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/parent/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/vnfm/VNFMContextConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/netcracker/vnfm/VNFMController.java">
           <value>
             <set />
           </value>
@@ -84,6 +114,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/ctx2.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/openStackImagesContext.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/vnfmContext.properties">
           <value>
             <set />
           </value>
