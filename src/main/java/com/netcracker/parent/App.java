@@ -14,11 +14,11 @@ public class App {
             .web(WebApplicationType.NONE)
             .child(OpenStackAuthContextConfig.class)
             .web(WebApplicationType.SERVLET)
-            .sibling(OpenStackKeyPairsContextConfig.class)
-                .web(WebApplicationType.SERVLET)
+           // .sibling(OpenStackKeyPairsContextConfig.class)
+             //   .web(WebApplicationType.SERVLET)
                 .sibling(OpenStackImagesContextConfig.class)
                 .web(WebApplicationType.SERVLET)
-                .sibling(VNFMContextConfig.class)
+          //      .sibling(VNFMContextConfig.class)
                 .web(WebApplicationType.SERVLET)
             .run(args);
     }
