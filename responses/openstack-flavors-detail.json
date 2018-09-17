@@ -1,0 +1,223 @@
+{"flavors": [
+    {
+      "name": "m1.large",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/33dec71e-b3ff-4025-9ac8-a887a32e0cc5",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/33dec71e-b3ff-4025-9ac8-a887a32e0cc5",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 8192,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 4,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 80,
+      "id": "33dec71e-b3ff-4025-9ac8-a887a32e0cc5"
+    },
+    {
+      "name": "m1.medium",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/3d5a0c23-6d93-4d93-8dad-34f868db61b7",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/3d5a0c23-6d93-4d93-8dad-34f868db61b7",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 4096,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 2,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 40,
+      "id": "3d5a0c23-6d93-4d93-8dad-34f868db61b7"
+    },
+    {
+      "name": "alpa_flavor",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 2048,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 1,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 4,
+      "id": "5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc"
+    },
+    {
+      "name": "c1.xxlarge",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/bd6cfe4f-3a50-41ac-a86c-ad2757501d17",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/bd6cfe4f-3a50-41ac-a86c-ad2757501d17",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 32768,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 8,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 200,
+      "id": "bd6cfe4f-3a50-41ac-a86c-ad2757501d17"
+    },
+    {
+      "name": "c1.xlarge",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 16384,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 8,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 100,
+      "id": "c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7"
+    },
+    {
+      "name": "m1.tiny",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ca06bb92-fe61-423b-9617-0e2c7542a56b",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ca06bb92-fe61-423b-9617-0e2c7542a56b",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 512,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 1,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 1,
+      "id": "ca06bb92-fe61-423b-9617-0e2c7542a56b"
+    },
+    {
+      "name": "d1.xxlarge",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/cdc62add-d9b1-45c6-b939-01aa352f3daa",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/cdc62add-d9b1-45c6-b939-01aa352f3daa",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 32768,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 8,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 320,
+      "id": "cdc62add-d9b1-45c6-b939-01aa352f3daa"
+    },
+    {
+      "name": "alpa_flavor_2",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 2048,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 1,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 8,
+      "id": "ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb"
+    },
+    {
+      "name": "m1.small",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ef6a0efc-1329-46d8-a6b5-348c7a263a93",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ef6a0efc-1329-46d8-a6b5-348c7a263a93",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 2048,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 1,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 20,
+      "id": "ef6a0efc-1329-46d8-a6b5-348c7a263a93"
+    },
+    {
+      "name": "Normal_E9K",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/Normal_E9K",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/Normal_E9K",
+          "rel": "bookmark"
+        }
+      ],
+      "ram": 2048,
+      "OS-FLV-DISABLED:disabled": false,
+      "vcpus": 1,
+      "swap": "",
+      "os-flavor-access:is_public": true,
+      "rxtx_factor": 1,
+      "OS-FLV-EXT-DATA:ephemeral": 0,
+      "disk": 20,
+      "id": "Normal_E9K"
+    }
+  ]
+}

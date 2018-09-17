@@ -1,0 +1,50 @@
+{"id": "5977b4a0-3fc1-436a-899d-5279aae06cf6",
+  "vnfInstanceName": "Test",
+  "vnfInstanceDescription": "Test",
+  "vnfdId": "UGW_VNF_Normal_E9K",
+  "vnfProvider": null,
+  "vnfProductName": null,
+  "vnfSoftwareVersion": null,
+  "vnfdVersion": null,
+  "onboardedVnfPkgInfoId": null,
+  "vnfConfigurableProperties": null,
+  "vimConnectionInfo": null,
+  "instantiationState": "NOT_INSTANTIATED",
+  "instantiatedVnfInfo": null,
+  "metadata": null,
+  "extensions": null,
+  "_links": {
+    "self": {
+      "rel": "self",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6"
+    },
+    "indicators": null,
+    "instantiate": {
+      "rel": "instantiate",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/instantiate"
+    },
+    "terminate": {
+      "rel": "terminate",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/terminate"
+    },
+    "scale": {
+      "rel": "scale",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/scale"
+    },
+    "scaleToLevel": {
+      "rel": "scaleToLevel",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/scale_to_level"
+    },
+    "changeFlavour": {
+      "rel": "changeFlavour",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/change_flavour"
+    },
+    "heal": {
+      "rel": "heal",
+      "href": "http://server.example.com/vnflcm/v1/vnf_instances/e06cf6/heal"
+    },
+    "operate": null,
+    "changeExtConn": null
+  },
+  "instanceOutputs": null
+}

@@ -1,0 +1,143 @@
+{"flavors": [
+    {
+      "id": "33dec71e-b3ff-4025-9ac8-a887a32e0cc5",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/33dec71e-b3ff-4025-9ac8-a887a32e0cc5",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/33dec71e-b3ff-4025-9ac8-a887a32e0cc5",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "m1.large"
+    },
+    {
+      "id": "3d5a0c23-6d93-4d93-8dad-34f868db61b7",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/3d5a0c23-6d93-4d93-8dad-34f868db61b7",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/3d5a0c23-6d93-4d93-8dad-34f868db61b7",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "m1.medium"
+    },
+    {
+      "id": "5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/5b72e8c9-b7b4-4dd1-b0d3-750f5de4bfdc",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "alpa_flavor"
+    },
+    {
+      "id": "bd6cfe4f-3a50-41ac-a86c-ad2757501d17",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/bd6cfe4f-3a50-41ac-a86c-ad2757501d17",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/bd6cfe4f-3a50-41ac-a86c-ad2757501d17",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "c1.xxlarge"
+    },
+    {
+      "id": "c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/c7dbb7ba-5ed3-4fba-bc3f-702cacb41fa7",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "c1.xlarge"
+    },
+    {
+      "id": "ca06bb92-fe61-423b-9617-0e2c7542a56b",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ca06bb92-fe61-423b-9617-0e2c7542a56b",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ca06bb92-fe61-423b-9617-0e2c7542a56b",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "m1.tiny"
+    },
+    {
+      "id": "cdc62add-d9b1-45c6-b939-01aa352f3daa",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/cdc62add-d9b1-45c6-b939-01aa352f3daa",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/cdc62add-d9b1-45c6-b939-01aa352f3daa",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "d1.xxlarge"
+    },
+    {
+      "id": "ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ec96dd5c-4cf1-4167-8ecb-61b9642d7fdb",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "alpa_flavor_2"
+    },
+    {
+      "id": "ef6a0efc-1329-46d8-a6b5-348c7a263a93",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/ef6a0efc-1329-46d8-a6b5-348c7a263a93",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/ef6a0efc-1329-46d8-a6b5-348c7a263a93",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "m1.small"
+    },
+    {
+      "id": "Normal_E9K",
+      "links": [
+        {
+          "href": "http://10.189.210.97:8774/v2.1/flavors/Normal_E9K",
+          "rel": "self"
+        },
+        {
+          "href": "http://10.189.210.97:8774/flavors/Normal_E9K",
+          "rel": "bookmark"
+        }
+      ],
+      "name": "Normal_E9K"
+    }
+  ]
+}
